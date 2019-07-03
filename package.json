@@ -1,0 +1,14 @@
+{
+  "name": "upload_server",
+  "version": "1.0.0",
+  "description": "simple node.js upload file server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrey Alfaro <andreyalfaro@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^1.2.1"
+  }
+}
